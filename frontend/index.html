@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>SHL Assessment Recommender</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #f7f7f7;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        textarea {
+            width: 100%;
+            height: 120px;
+            font-size: 16px;
+            padding: 10px;
+        }
+        button {
+            padding: 12px 20px;
+            margin-top: 10px;
+            font-size: 16px;
+            background: #0066cc;
+            border: none;
+            color: white;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #004999;
+        }
+        .result {
+            padding: 15px;
+            background: white;
+            margin-top: 20px;
+            border-radius: 5px;
+        }
+        a {
+            color: #0066cc;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>SHL Assessment Recommendation Engine</h1>
+
+    <textarea id="query" placeholder="Enter job description or skills..."></textarea>
+    <br>
+    <button onclick="recommend()">Get Recommendations</button>
+
+    <div id="output"></div>
+
+    <script>
+        async function recommend() {
+            const queryText = document.getElementById("query").value;
+            const output = document.getElementById("output");
+            output.innerHTML = "<p>Loading results...</p>";
+
+            const response = await fetch("http://127.0.0.1:9000/recommend", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ query: queryText })
+            });
+
+            const data = await response.json();
+
+            if (!data.recommendations) {
+                output.innerHTML = "<p>Error retrieving recommendations.</p>";
+                return;
+            }
+
+            output.innerHTML = "<h2>Top Recommendations</h2>";
+
+            data.recommendations.forEach(item => {
+                output.innerHTML += `
+                    <div class="result">
+                        <a href="${item.assessment_url}" target="_blank">
+                            ${item.assessment_name}
+                        </a><br>
+                        <small>Score: ${item.score.toFixed(4)}</small>
+                    </div>
+                `;
+            });
+        }
+    </script>
+
+</body>
+</html>

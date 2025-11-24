@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+requests
+beautifulsoup4
+tqdm
+pandas
+numpy
+scikit-learn
+faiss-cpu
+python-dotenv
+openai
+sentence-transformers
+aiohttp
+pytest

@@ -1,0 +1,2662 @@
+[
+  {
+    "name": "SHL Assessment Test 1",
+    "url": "https://www.shl.com/products/test-1",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 2",
+    "url": "https://www.shl.com/products/test-2",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 3",
+    "url": "https://www.shl.com/products/test-3",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 4",
+    "url": "https://www.shl.com/products/test-4",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 5",
+    "url": "https://www.shl.com/products/test-5",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 6",
+    "url": "https://www.shl.com/products/test-6",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 7",
+    "url": "https://www.shl.com/products/test-7",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 8",
+    "url": "https://www.shl.com/products/test-8",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 9",
+    "url": "https://www.shl.com/products/test-9",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 10",
+    "url": "https://www.shl.com/products/test-10",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 11",
+    "url": "https://www.shl.com/products/test-11",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 12",
+    "url": "https://www.shl.com/products/test-12",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 13",
+    "url": "https://www.shl.com/products/test-13",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 14",
+    "url": "https://www.shl.com/products/test-14",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 15",
+    "url": "https://www.shl.com/products/test-15",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 16",
+    "url": "https://www.shl.com/products/test-16",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 17",
+    "url": "https://www.shl.com/products/test-17",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 18",
+    "url": "https://www.shl.com/products/test-18",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 19",
+    "url": "https://www.shl.com/products/test-19",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 20",
+    "url": "https://www.shl.com/products/test-20",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 21",
+    "url": "https://www.shl.com/products/test-21",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 22",
+    "url": "https://www.shl.com/products/test-22",
+    "category": "Personality",
+    "test_type": "Personality",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 23",
+    "url": "https://www.shl.com/products/test-23",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 24",
+    "url": "https://www.shl.com/products/test-24",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 25",
+    "url": "https://www.shl.com/products/test-25",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 26",
+    "url": "https://www.shl.com/products/test-26",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 27",
+    "url": "https://www.shl.com/products/test-27",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 28",
+    "url": "https://www.shl.com/products/test-28",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 29",
+    "url": "https://www.shl.com/products/test-29",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 30",
+    "url": "https://www.shl.com/products/test-30",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 31",
+    "url": "https://www.shl.com/products/test-31",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 32",
+    "url": "https://www.shl.com/products/test-32",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 33",
+    "url": "https://www.shl.com/products/test-33",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 34",
+    "url": "https://www.shl.com/products/test-34",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 35",
+    "url": "https://www.shl.com/products/test-35",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 36",
+    "url": "https://www.shl.com/products/test-36",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 37",
+    "url": "https://www.shl.com/products/test-37",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 38",
+    "url": "https://www.shl.com/products/test-38",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 39",
+    "url": "https://www.shl.com/products/test-39",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 40",
+    "url": "https://www.shl.com/products/test-40",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 41",
+    "url": "https://www.shl.com/products/test-41",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 42",
+    "url": "https://www.shl.com/products/test-42",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 43",
+    "url": "https://www.shl.com/products/test-43",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 44",
+    "url": "https://www.shl.com/products/test-44",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 45",
+    "url": "https://www.shl.com/products/test-45",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 46",
+    "url": "https://www.shl.com/products/test-46",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 47",
+    "url": "https://www.shl.com/products/test-47",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 48",
+    "url": "https://www.shl.com/products/test-48",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 49",
+    "url": "https://www.shl.com/products/test-49",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 50",
+    "url": "https://www.shl.com/products/test-50",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 51",
+    "url": "https://www.shl.com/products/test-51",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 52",
+    "url": "https://www.shl.com/products/test-52",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 53",
+    "url": "https://www.shl.com/products/test-53",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 54",
+    "url": "https://www.shl.com/products/test-54",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 55",
+    "url": "https://www.shl.com/products/test-55",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 56",
+    "url": "https://www.shl.com/products/test-56",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 57",
+    "url": "https://www.shl.com/products/test-57",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 58",
+    "url": "https://www.shl.com/products/test-58",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 59",
+    "url": "https://www.shl.com/products/test-59",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 60",
+    "url": "https://www.shl.com/products/test-60",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 61",
+    "url": "https://www.shl.com/products/test-61",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 62",
+    "url": "https://www.shl.com/products/test-62",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 63",
+    "url": "https://www.shl.com/products/test-63",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 64",
+    "url": "https://www.shl.com/products/test-64",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 65",
+    "url": "https://www.shl.com/products/test-65",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 66",
+    "url": "https://www.shl.com/products/test-66",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 67",
+    "url": "https://www.shl.com/products/test-67",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 68",
+    "url": "https://www.shl.com/products/test-68",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 69",
+    "url": "https://www.shl.com/products/test-69",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 70",
+    "url": "https://www.shl.com/products/test-70",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 71",
+    "url": "https://www.shl.com/products/test-71",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 72",
+    "url": "https://www.shl.com/products/test-72",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 73",
+    "url": "https://www.shl.com/products/test-73",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 74",
+    "url": "https://www.shl.com/products/test-74",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 75",
+    "url": "https://www.shl.com/products/test-75",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 76",
+    "url": "https://www.shl.com/products/test-76",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 77",
+    "url": "https://www.shl.com/products/test-77",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 78",
+    "url": "https://www.shl.com/products/test-78",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 79",
+    "url": "https://www.shl.com/products/test-79",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 80",
+    "url": "https://www.shl.com/products/test-80",
+    "category": "Personality",
+    "test_type": "Personality",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 81",
+    "url": "https://www.shl.com/products/test-81",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 82",
+    "url": "https://www.shl.com/products/test-82",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 83",
+    "url": "https://www.shl.com/products/test-83",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 84",
+    "url": "https://www.shl.com/products/test-84",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 85",
+    "url": "https://www.shl.com/products/test-85",
+    "category": "Personality",
+    "test_type": "Personality",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 86",
+    "url": "https://www.shl.com/products/test-86",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 87",
+    "url": "https://www.shl.com/products/test-87",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 88",
+    "url": "https://www.shl.com/products/test-88",
+    "category": "Personality",
+    "test_type": "Personality",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 89",
+    "url": "https://www.shl.com/products/test-89",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 90",
+    "url": "https://www.shl.com/products/test-90",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 91",
+    "url": "https://www.shl.com/products/test-91",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 92",
+    "url": "https://www.shl.com/products/test-92",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 93",
+    "url": "https://www.shl.com/products/test-93",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 94",
+    "url": "https://www.shl.com/products/test-94",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 95",
+    "url": "https://www.shl.com/products/test-95",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 96",
+    "url": "https://www.shl.com/products/test-96",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 97",
+    "url": "https://www.shl.com/products/test-97",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 98",
+    "url": "https://www.shl.com/products/test-98",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 99",
+    "url": "https://www.shl.com/products/test-99",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 100",
+    "url": "https://www.shl.com/products/test-100",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 101",
+    "url": "https://www.shl.com/products/test-101",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 102",
+    "url": "https://www.shl.com/products/test-102",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 103",
+    "url": "https://www.shl.com/products/test-103",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 104",
+    "url": "https://www.shl.com/products/test-104",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 105",
+    "url": "https://www.shl.com/products/test-105",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 106",
+    "url": "https://www.shl.com/products/test-106",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 107",
+    "url": "https://www.shl.com/products/test-107",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 108",
+    "url": "https://www.shl.com/products/test-108",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 109",
+    "url": "https://www.shl.com/products/test-109",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 110",
+    "url": "https://www.shl.com/products/test-110",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 111",
+    "url": "https://www.shl.com/products/test-111",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 112",
+    "url": "https://www.shl.com/products/test-112",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 113",
+    "url": "https://www.shl.com/products/test-113",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 114",
+    "url": "https://www.shl.com/products/test-114",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 115",
+    "url": "https://www.shl.com/products/test-115",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 116",
+    "url": "https://www.shl.com/products/test-116",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 117",
+    "url": "https://www.shl.com/products/test-117",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 118",
+    "url": "https://www.shl.com/products/test-118",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 119",
+    "url": "https://www.shl.com/products/test-119",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 120",
+    "url": "https://www.shl.com/products/test-120",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 121",
+    "url": "https://www.shl.com/products/test-121",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 122",
+    "url": "https://www.shl.com/products/test-122",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 123",
+    "url": "https://www.shl.com/products/test-123",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 124",
+    "url": "https://www.shl.com/products/test-124",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 125",
+    "url": "https://www.shl.com/products/test-125",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 126",
+    "url": "https://www.shl.com/products/test-126",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 127",
+    "url": "https://www.shl.com/products/test-127",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 128",
+    "url": "https://www.shl.com/products/test-128",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 129",
+    "url": "https://www.shl.com/products/test-129",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 130",
+    "url": "https://www.shl.com/products/test-130",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 131",
+    "url": "https://www.shl.com/products/test-131",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 132",
+    "url": "https://www.shl.com/products/test-132",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 133",
+    "url": "https://www.shl.com/products/test-133",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 134",
+    "url": "https://www.shl.com/products/test-134",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 135",
+    "url": "https://www.shl.com/products/test-135",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 136",
+    "url": "https://www.shl.com/products/test-136",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 137",
+    "url": "https://www.shl.com/products/test-137",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 138",
+    "url": "https://www.shl.com/products/test-138",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 139",
+    "url": "https://www.shl.com/products/test-139",
+    "category": "Personality",
+    "test_type": "Personality",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 140",
+    "url": "https://www.shl.com/products/test-140",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 141",
+    "url": "https://www.shl.com/products/test-141",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 142",
+    "url": "https://www.shl.com/products/test-142",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 143",
+    "url": "https://www.shl.com/products/test-143",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 144",
+    "url": "https://www.shl.com/products/test-144",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 145",
+    "url": "https://www.shl.com/products/test-145",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 146",
+    "url": "https://www.shl.com/products/test-146",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 147",
+    "url": "https://www.shl.com/products/test-147",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 148",
+    "url": "https://www.shl.com/products/test-148",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 149",
+    "url": "https://www.shl.com/products/test-149",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 150",
+    "url": "https://www.shl.com/products/test-150",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 151",
+    "url": "https://www.shl.com/products/test-151",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 152",
+    "url": "https://www.shl.com/products/test-152",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 153",
+    "url": "https://www.shl.com/products/test-153",
+    "category": "Personality",
+    "test_type": "Personality",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 154",
+    "url": "https://www.shl.com/products/test-154",
+    "category": "Personality",
+    "test_type": "Personality",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 155",
+    "url": "https://www.shl.com/products/test-155",
+    "category": "Personality",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 156",
+    "url": "https://www.shl.com/products/test-156",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 157",
+    "url": "https://www.shl.com/products/test-157",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 158",
+    "url": "https://www.shl.com/products/test-158",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 159",
+    "url": "https://www.shl.com/products/test-159",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 160",
+    "url": "https://www.shl.com/products/test-160",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 161",
+    "url": "https://www.shl.com/products/test-161",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 162",
+    "url": "https://www.shl.com/products/test-162",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 163",
+    "url": "https://www.shl.com/products/test-163",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 164",
+    "url": "https://www.shl.com/products/test-164",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 165",
+    "url": "https://www.shl.com/products/test-165",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 166",
+    "url": "https://www.shl.com/products/test-166",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 167",
+    "url": "https://www.shl.com/products/test-167",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 168",
+    "url": "https://www.shl.com/products/test-168",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 169",
+    "url": "https://www.shl.com/products/test-169",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 170",
+    "url": "https://www.shl.com/products/test-170",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 171",
+    "url": "https://www.shl.com/products/test-171",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 172",
+    "url": "https://www.shl.com/products/test-172",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 173",
+    "url": "https://www.shl.com/products/test-173",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 174",
+    "url": "https://www.shl.com/products/test-174",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 175",
+    "url": "https://www.shl.com/products/test-175",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 176",
+    "url": "https://www.shl.com/products/test-176",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 177",
+    "url": "https://www.shl.com/products/test-177",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 178",
+    "url": "https://www.shl.com/products/test-178",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 179",
+    "url": "https://www.shl.com/products/test-179",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 180",
+    "url": "https://www.shl.com/products/test-180",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 181",
+    "url": "https://www.shl.com/products/test-181",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 182",
+    "url": "https://www.shl.com/products/test-182",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 183",
+    "url": "https://www.shl.com/products/test-183",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 184",
+    "url": "https://www.shl.com/products/test-184",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 185",
+    "url": "https://www.shl.com/products/test-185",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 186",
+    "url": "https://www.shl.com/products/test-186",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 187",
+    "url": "https://www.shl.com/products/test-187",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 188",
+    "url": "https://www.shl.com/products/test-188",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 189",
+    "url": "https://www.shl.com/products/test-189",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 190",
+    "url": "https://www.shl.com/products/test-190",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 191",
+    "url": "https://www.shl.com/products/test-191",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 192",
+    "url": "https://www.shl.com/products/test-192",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 193",
+    "url": "https://www.shl.com/products/test-193",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 194",
+    "url": "https://www.shl.com/products/test-194",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 195",
+    "url": "https://www.shl.com/products/test-195",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 196",
+    "url": "https://www.shl.com/products/test-196",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 197",
+    "url": "https://www.shl.com/products/test-197",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 198",
+    "url": "https://www.shl.com/products/test-198",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 199",
+    "url": "https://www.shl.com/products/test-199",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 200",
+    "url": "https://www.shl.com/products/test-200",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 201",
+    "url": "https://www.shl.com/products/test-201",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 202",
+    "url": "https://www.shl.com/products/test-202",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 203",
+    "url": "https://www.shl.com/products/test-203",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 204",
+    "url": "https://www.shl.com/products/test-204",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 205",
+    "url": "https://www.shl.com/products/test-205",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 206",
+    "url": "https://www.shl.com/products/test-206",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 207",
+    "url": "https://www.shl.com/products/test-207",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 208",
+    "url": "https://www.shl.com/products/test-208",
+    "category": "Personality",
+    "test_type": "Personality",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 209",
+    "url": "https://www.shl.com/products/test-209",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 210",
+    "url": "https://www.shl.com/products/test-210",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 211",
+    "url": "https://www.shl.com/products/test-211",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 212",
+    "url": "https://www.shl.com/products/test-212",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 213",
+    "url": "https://www.shl.com/products/test-213",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 214",
+    "url": "https://www.shl.com/products/test-214",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 215",
+    "url": "https://www.shl.com/products/test-215",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 216",
+    "url": "https://www.shl.com/products/test-216",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 217",
+    "url": "https://www.shl.com/products/test-217",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 218",
+    "url": "https://www.shl.com/products/test-218",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 219",
+    "url": "https://www.shl.com/products/test-219",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 220",
+    "url": "https://www.shl.com/products/test-220",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 221",
+    "url": "https://www.shl.com/products/test-221",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 222",
+    "url": "https://www.shl.com/products/test-222",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 223",
+    "url": "https://www.shl.com/products/test-223",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 224",
+    "url": "https://www.shl.com/products/test-224",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 225",
+    "url": "https://www.shl.com/products/test-225",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 226",
+    "url": "https://www.shl.com/products/test-226",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 227",
+    "url": "https://www.shl.com/products/test-227",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 228",
+    "url": "https://www.shl.com/products/test-228",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 229",
+    "url": "https://www.shl.com/products/test-229",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 230",
+    "url": "https://www.shl.com/products/test-230",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 231",
+    "url": "https://www.shl.com/products/test-231",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 232",
+    "url": "https://www.shl.com/products/test-232",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 233",
+    "url": "https://www.shl.com/products/test-233",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 234",
+    "url": "https://www.shl.com/products/test-234",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 235",
+    "url": "https://www.shl.com/products/test-235",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 236",
+    "url": "https://www.shl.com/products/test-236",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 237",
+    "url": "https://www.shl.com/products/test-237",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 238",
+    "url": "https://www.shl.com/products/test-238",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 239",
+    "url": "https://www.shl.com/products/test-239",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 240",
+    "url": "https://www.shl.com/products/test-240",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 241",
+    "url": "https://www.shl.com/products/test-241",
+    "category": "Personality",
+    "test_type": "Personality",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 242",
+    "url": "https://www.shl.com/products/test-242",
+    "category": "Personality",
+    "test_type": "Personality",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 243",
+    "url": "https://www.shl.com/products/test-243",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 244",
+    "url": "https://www.shl.com/products/test-244",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 245",
+    "url": "https://www.shl.com/products/test-245",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 246",
+    "url": "https://www.shl.com/products/test-246",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 247",
+    "url": "https://www.shl.com/products/test-247",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 248",
+    "url": "https://www.shl.com/products/test-248",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 249",
+    "url": "https://www.shl.com/products/test-249",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 250",
+    "url": "https://www.shl.com/products/test-250",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 251",
+    "url": "https://www.shl.com/products/test-251",
+    "category": "Personality",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 252",
+    "url": "https://www.shl.com/products/test-252",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 253",
+    "url": "https://www.shl.com/products/test-253",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 254",
+    "url": "https://www.shl.com/products/test-254",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 255",
+    "url": "https://www.shl.com/products/test-255",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 256",
+    "url": "https://www.shl.com/products/test-256",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 257",
+    "url": "https://www.shl.com/products/test-257",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 258",
+    "url": "https://www.shl.com/products/test-258",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 259",
+    "url": "https://www.shl.com/products/test-259",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 260",
+    "url": "https://www.shl.com/products/test-260",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 261",
+    "url": "https://www.shl.com/products/test-261",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 262",
+    "url": "https://www.shl.com/products/test-262",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 263",
+    "url": "https://www.shl.com/products/test-263",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 264",
+    "url": "https://www.shl.com/products/test-264",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 265",
+    "url": "https://www.shl.com/products/test-265",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 266",
+    "url": "https://www.shl.com/products/test-266",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 267",
+    "url": "https://www.shl.com/products/test-267",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 268",
+    "url": "https://www.shl.com/products/test-268",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 269",
+    "url": "https://www.shl.com/products/test-269",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 270",
+    "url": "https://www.shl.com/products/test-270",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 271",
+    "url": "https://www.shl.com/products/test-271",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 272",
+    "url": "https://www.shl.com/products/test-272",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 273",
+    "url": "https://www.shl.com/products/test-273",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 274",
+    "url": "https://www.shl.com/products/test-274",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 275",
+    "url": "https://www.shl.com/products/test-275",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 276",
+    "url": "https://www.shl.com/products/test-276",
+    "category": "Personality",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 277",
+    "url": "https://www.shl.com/products/test-277",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 278",
+    "url": "https://www.shl.com/products/test-278",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 279",
+    "url": "https://www.shl.com/products/test-279",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 280",
+    "url": "https://www.shl.com/products/test-280",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 281",
+    "url": "https://www.shl.com/products/test-281",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 282",
+    "url": "https://www.shl.com/products/test-282",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 283",
+    "url": "https://www.shl.com/products/test-283",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 284",
+    "url": "https://www.shl.com/products/test-284",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 285",
+    "url": "https://www.shl.com/products/test-285",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 286",
+    "url": "https://www.shl.com/products/test-286",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 287",
+    "url": "https://www.shl.com/products/test-287",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 288",
+    "url": "https://www.shl.com/products/test-288",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 289",
+    "url": "https://www.shl.com/products/test-289",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 290",
+    "url": "https://www.shl.com/products/test-290",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 291",
+    "url": "https://www.shl.com/products/test-291",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 292",
+    "url": "https://www.shl.com/products/test-292",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 293",
+    "url": "https://www.shl.com/products/test-293",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 294",
+    "url": "https://www.shl.com/products/test-294",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 295",
+    "url": "https://www.shl.com/products/test-295",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 296",
+    "url": "https://www.shl.com/products/test-296",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 297",
+    "url": "https://www.shl.com/products/test-297",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 298",
+    "url": "https://www.shl.com/products/test-298",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 299",
+    "url": "https://www.shl.com/products/test-299",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 300",
+    "url": "https://www.shl.com/products/test-300",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 301",
+    "url": "https://www.shl.com/products/test-301",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 302",
+    "url": "https://www.shl.com/products/test-302",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 303",
+    "url": "https://www.shl.com/products/test-303",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 304",
+    "url": "https://www.shl.com/products/test-304",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 305",
+    "url": "https://www.shl.com/products/test-305",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 306",
+    "url": "https://www.shl.com/products/test-306",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 307",
+    "url": "https://www.shl.com/products/test-307",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 308",
+    "url": "https://www.shl.com/products/test-308",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 309",
+    "url": "https://www.shl.com/products/test-309",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 310",
+    "url": "https://www.shl.com/products/test-310",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 311",
+    "url": "https://www.shl.com/products/test-311",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 312",
+    "url": "https://www.shl.com/products/test-312",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 313",
+    "url": "https://www.shl.com/products/test-313",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 314",
+    "url": "https://www.shl.com/products/test-314",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 315",
+    "url": "https://www.shl.com/products/test-315",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 316",
+    "url": "https://www.shl.com/products/test-316",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 317",
+    "url": "https://www.shl.com/products/test-317",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 318",
+    "url": "https://www.shl.com/products/test-318",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 319",
+    "url": "https://www.shl.com/products/test-319",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 320",
+    "url": "https://www.shl.com/products/test-320",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 321",
+    "url": "https://www.shl.com/products/test-321",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 322",
+    "url": "https://www.shl.com/products/test-322",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 323",
+    "url": "https://www.shl.com/products/test-323",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 324",
+    "url": "https://www.shl.com/products/test-324",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 325",
+    "url": "https://www.shl.com/products/test-325",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 326",
+    "url": "https://www.shl.com/products/test-326",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 327",
+    "url": "https://www.shl.com/products/test-327",
+    "category": "Personality",
+    "test_type": "Personality",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 328",
+    "url": "https://www.shl.com/products/test-328",
+    "category": "Personality",
+    "test_type": "Personality",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 329",
+    "url": "https://www.shl.com/products/test-329",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 330",
+    "url": "https://www.shl.com/products/test-330",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 331",
+    "url": "https://www.shl.com/products/test-331",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 332",
+    "url": "https://www.shl.com/products/test-332",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 333",
+    "url": "https://www.shl.com/products/test-333",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 334",
+    "url": "https://www.shl.com/products/test-334",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 335",
+    "url": "https://www.shl.com/products/test-335",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 336",
+    "url": "https://www.shl.com/products/test-336",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 337",
+    "url": "https://www.shl.com/products/test-337",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 338",
+    "url": "https://www.shl.com/products/test-338",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 339",
+    "url": "https://www.shl.com/products/test-339",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 340",
+    "url": "https://www.shl.com/products/test-340",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 341",
+    "url": "https://www.shl.com/products/test-341",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 342",
+    "url": "https://www.shl.com/products/test-342",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 343",
+    "url": "https://www.shl.com/products/test-343",
+    "category": "Technical",
+    "test_type": "Personality",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 344",
+    "url": "https://www.shl.com/products/test-344",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 345",
+    "url": "https://www.shl.com/products/test-345",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 346",
+    "url": "https://www.shl.com/products/test-346",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 347",
+    "url": "https://www.shl.com/products/test-347",
+    "category": "Technical",
+    "test_type": "Skill",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 348",
+    "url": "https://www.shl.com/products/test-348",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 349",
+    "url": "https://www.shl.com/products/test-349",
+    "category": "Personality",
+    "test_type": "Personality",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 350",
+    "url": "https://www.shl.com/products/test-350",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 351",
+    "url": "https://www.shl.com/products/test-351",
+    "category": "Aptitude",
+    "test_type": "Skill",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 352",
+    "url": "https://www.shl.com/products/test-352",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 353",
+    "url": "https://www.shl.com/products/test-353",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 354",
+    "url": "https://www.shl.com/products/test-354",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 355",
+    "url": "https://www.shl.com/products/test-355",
+    "category": "Cognitive",
+    "test_type": "Skill",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 356",
+    "url": "https://www.shl.com/products/test-356",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 357",
+    "url": "https://www.shl.com/products/test-357",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  },
+  {
+    "name": "SHL Assessment Test 358",
+    "url": "https://www.shl.com/products/test-358",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 359",
+    "url": "https://www.shl.com/products/test-359",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 360",
+    "url": "https://www.shl.com/products/test-360",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 361",
+    "url": "https://www.shl.com/products/test-361",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment delivers a standardized assessment aligned with global talent benchmarks and norms."
+  },
+  {
+    "name": "SHL Assessment Test 362",
+    "url": "https://www.shl.com/products/test-362",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 363",
+    "url": "https://www.shl.com/products/test-363",
+    "category": "Aptitude",
+    "test_type": "Personality",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 364",
+    "url": "https://www.shl.com/products/test-364",
+    "category": "Personality",
+    "test_type": "Personality",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 365",
+    "url": "https://www.shl.com/products/test-365",
+    "category": "Behavioral",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 366",
+    "url": "https://www.shl.com/products/test-366",
+    "category": "Aptitude",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 367",
+    "url": "https://www.shl.com/products/test-367",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 368",
+    "url": "https://www.shl.com/products/test-368",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment captures a broad spectrum of reasoning skills required for complex job functions."
+  },
+  {
+    "name": "SHL Assessment Test 369",
+    "url": "https://www.shl.com/products/test-369",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 370",
+    "url": "https://www.shl.com/products/test-370",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 371",
+    "url": "https://www.shl.com/products/test-371",
+    "category": "Technical",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment provides insight into how effectively individuals interpret data and apply logical strategies."
+  },
+  {
+    "name": "SHL Assessment Test 372",
+    "url": "https://www.shl.com/products/test-372",
+    "category": "Personality",
+    "test_type": "Skill",
+    "description": "This SHL assessment assesses a candidate\u2019s ability to analyze complex information and make sound decisions."
+  },
+  {
+    "name": "SHL Assessment Test 373",
+    "url": "https://www.shl.com/products/test-373",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 374",
+    "url": "https://www.shl.com/products/test-374",
+    "category": "Cognitive",
+    "test_type": "Personality",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 375",
+    "url": "https://www.shl.com/products/test-375",
+    "category": "Cognitive",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment measures critical thinking, problem-solving, and reasoning capabilities essential for modern roles."
+  },
+  {
+    "name": "SHL Assessment Test 376",
+    "url": "https://www.shl.com/products/test-376",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment evaluates a candidate\u2019s potential to perform well in dynamic, fast\u2011paced environments."
+  },
+  {
+    "name": "SHL Assessment Test 377",
+    "url": "https://www.shl.com/products/test-377",
+    "category": "Personality",
+    "test_type": "Knowledge",
+    "description": "This SHL assessment gives employers data\u2011driven insights into cognitive strengths relevant to role performance."
+  },
+  {
+    "name": "SHL Assessment Test 378",
+    "url": "https://www.shl.com/products/test-378",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment offers a reliable measure of core workplace competencies used across industries."
+  },
+  {
+    "name": "SHL Assessment Test 379",
+    "url": "https://www.shl.com/products/test-379",
+    "category": "Behavioral",
+    "test_type": "Skill",
+    "description": "This SHL assessment supports hiring decisions by predicting how individuals approach challenges and absorb new information."
+  },
+  {
+    "name": "SHL Assessment Test 380",
+    "url": "https://www.shl.com/products/test-380",
+    "category": "Behavioral",
+    "test_type": "Personality",
+    "description": "This SHL assessment helps organizations identify talent with strong analytical capabilities and learning agility."
+  }
+]
